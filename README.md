@@ -1,7 +1,12 @@
+# Coming Soooooon
+
+
+
+
+
 # EerkAI
 Advanced AI Handwriting Notes System — Detailed Technical Concept
 
-# EerkAI
 
 ![EerkAI Logo](docs/logo.png) <!-- Optional: Add a logo in your docs folder -->
 
@@ -125,4 +130,5 @@ For questions or feedback, reach out at: your.email@example.com
 ---
 
 **Start your personalized handwritten journey with EerkAI today!**
-
+work start day: 21-05-2025 02:35 AM (ML model lab eroju all the best cheppu marhcipoku)
+estimate: Sem ipoinaka ne le..... 
