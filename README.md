@@ -105,12 +105,10 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 
 ## Contact
-
-Created with ❤️ by G
-
-For questions or feedback, reach out at: your.email@example.com
+reach out via opening an issue
 
 
-**Start your personalized handwritten journey with EerkAI today!**
+
+**Start your personalized handwritten journey with EerkAI today!**  
 work start day: 21-05-2025 02:35 AM (ML model lab eroju all the best cheppu marhcipoku)
-estimate: Sem ipoinaka ne le..... 
+
