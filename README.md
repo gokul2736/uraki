@@ -43,20 +43,20 @@ This personalized style transfer is powered by deep learning algorithms that ana
 
 ## Folder Structure
 
-EerkAI/
-├── public/ # Static assets (images, fonts)
-├── src/ # Source code
-│ ├── components/ # React/Vue components
-│ ├── model/ # AI model scripts & training utils
-│ ├── services/ # API calls and backend interactions
-│ ├── styles/ # CSS / Tailwind / Bootstrap files
-│ ├── utils/ # Helper functions
-│ └── App.js # Main app entry point
-├── docs/ # Documentation, logo, diagrams
-├── tests/ # Unit and integration tests
-├── .gitignore # Git ignore rules
-├── README.md # This README file
-└── package.json # Project dependencies and scripts
+EerkAI/  
+├── public/ # Static assets (images, fonts)  
+├── src/ # Source code  
+│ ├── components/ # React/Vue components  
+│ ├── model/ # AI model scripts & training utils  
+│ ├── services/ # API calls and backend interactions  
+│ ├── styles/ # CSS / Tailwind / Bootstrap files  
+│ ├── utils/ # Helper functions  
+│ └── App.js # Main app entry point  
+├── docs/ # Documentation, logo, diagrams  
+├── tests/ # Unit and integration tests  
+├── .gitignore # Git ignore rules  
+├── README.md # This README file  
+└── package.json # Project dependencies and scripts  
 
 
 ## How To Use
